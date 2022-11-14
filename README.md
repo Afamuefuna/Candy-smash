@@ -1,3 +1,3 @@
 # Candy smash
  
-Candy smash is a puzzle game I've been working on, with the help of assets from unity assets store, the game is similar to candy crush
+In this game the player is to match objects of the same type horizontally or vertically to get a score, it is more like candy crush.
